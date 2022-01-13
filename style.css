@@ -94,8 +94,8 @@
 
     .d-flex {
         padding: 10px;
-        width: 35%;
-        text-align: right;
+        width: 45%;
+        text-align:justify;
         font-size: 17px;
         border: 2px solid grey;
         border-radius: 10px;
